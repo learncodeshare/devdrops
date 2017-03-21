@@ -1,0 +1,17 @@
+# Ignore Node & Bower
+###################
+node_modules
+bower_components
+build
+#.tmp
+*.log
+**/dist
+
+.suo
+.vs
+*.suo
+*.user
+bin
+obj
+**/packages
+.gitattributes
